@@ -6,10 +6,5 @@ C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-#include<stdio.h>
-int main(){
-    int i;
-    for(i=0;i<=6;i++){
-    printf("mani  loves jaanu\n");
-}
-}
+printf("mani \n");
+
